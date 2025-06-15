@@ -1,0 +1,21 @@
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.dll.config
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.pdb
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.pdb
+D:\C#\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.dll.config
+D:\C#\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.dll
+D:\C#\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.pdb
+D:\C#\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+D:\C#\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.dll
+D:\C#\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.pdb
+D:\C#\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+E:\New folder\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.dll.config
+E:\New folder\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.dll
+E:\New folder\12523081_NguyenVanThang\DataLayer\bin\Debug\DataLayer.pdb
+E:\New folder\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.csproj.AssemblyReference.cache
+E:\New folder\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.csproj.CoreCompileInputs.cache
+E:\New folder\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.dll
+E:\New folder\12523081_NguyenVanThang\DataLayer\obj\Debug\DataLayer.pdb

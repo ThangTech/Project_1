@@ -1,0 +1,350 @@
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.exe.config
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.exe
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.pdb
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.AssemblyReference.cache
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmChucVu.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmMenuQuanLy.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Properties.Resources.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.GenerateResource.cache
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.CoreCompileInputs.cache
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.exe
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.pdb
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataCtrl.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataCtrl.pdb
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.pdb
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.dll.config
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081.8F857DDA.Up2Date
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmPhongBan.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmNhanVien.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBangNV.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmChamCong.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmThuongPhat.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBaoHiem.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmCheDoNghi.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBangLuong.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Charts.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Drawing.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Office.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.PivotGrid.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.UI.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Xpo.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraBars.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGauges.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.CodeParser.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Text.Json.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Memory.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraRichEdit.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataVisualization.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.UI.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraNavBar.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPivotGrid.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Extensions.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.ValueTuple.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Text.Encodings.Web.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Numerics.Vectors.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Buffers.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Images.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraDiagram.v24.2.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Diagram.v24.2.Core.dll
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Charts.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Office.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.PivotGrid.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.UI.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Xpo.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGauges.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraRichEdit.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.UI.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraNavBar.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPivotGrid.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraDiagram.v24.2.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Diagram.v24.2.Core.xml
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.SuggestedBindingRedirects.cache
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.exe.config
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FrmInDSNhanViencs.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RDSNhanVien.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.exe.licenses
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FrmInDSBangLuong.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.ReportBangLuong.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmDangNhap.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.ThongKe.FrmThongKeBangLuong.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.exe.config
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.exe
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.pdb
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataCtrl.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Charts.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Drawing.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Office.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.PivotGrid.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.UI.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Xpo.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraBars.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGauges.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.CodeParser.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Text.Json.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Memory.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraRichEdit.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataVisualization.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.UI.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraNavBar.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPivotGrid.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Extensions.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.ValueTuple.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Text.Encodings.Web.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Numerics.Vectors.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Buffers.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Images.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraDiagram.v24.2.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Diagram.v24.2.Core.dll
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataCtrl.pdb
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.pdb
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.dll.config
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Charts.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Drawing.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Office.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.PivotGrid.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.UI.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Xpo.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraBars.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGauges.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraRichEdit.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.UI.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraNavBar.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPivotGrid.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraDiagram.v24.2.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Diagram.v24.2.Core.xml
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.AssemblyReference.cache
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.exe.config
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBangLuong.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBangNV.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBaoHiem.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmChamCong.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmCheDoNghi.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmChucVu.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmDangNhap.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmMenuQuanLy.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmNhanVien.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmPhongBan.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmThuongPhat.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Properties.Resources.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FrmInDSBangLuong.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FrmInDSNhanViencs.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RDSNhanVien.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.ReportBangLuong.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.ThongKe.FrmThongKeBangLuong.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.GenerateResource.cache
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.exe.licenses
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.CoreCompileInputs.cache
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.CopyComplete
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.exe
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.pdb
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.XtraReportDSNhanVien.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FormInDSBaoHiem.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RpBaoHiem.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FormInDSTP.resources
+D:\C#\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RpTP.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FormInDSBaoHiem.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FormInDSTP.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RpBaoHiem.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RpTP.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.XtraReportDSNhanVien.resources
+D:\PhanMem\12523081_NguyenVanThang\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmChamTungNgay.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.exe.config
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.exe
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\12523081_NguyenVanThang.pdb
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataCtrl.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Charts.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.CodeParser.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.Desktop.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Drawing.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Office.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Drawing.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.PivotGrid.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Printing.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Export.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Sparkline.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.UI.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Xpo.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraBars.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraEditors.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGauges.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraLayout.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPrinting.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraTreeList.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraRichEdit.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataVisualization.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.UI.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGrid.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraNavBar.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPivotGrid.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Extensions.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Images.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraDiagram.v24.2.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Diagram.v24.2.Core.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataCtrl.pdb
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.pdb
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DataLayer.dll.config
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Charts.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.Desktop.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Data.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Drawing.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Office.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Pdf.v24.2.Drawing.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.PivotGrid.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Printing.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.RichEdit.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Sparkline.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Utils.v24.2.UI.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Xpo.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraBars.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraEditors.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGauges.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraLayout.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPrinting.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraReports.v24.2.Extensions.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraTreeList.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraRichEdit.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraVerticalGrid.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.DataAccess.v24.2.UI.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraGrid.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraNavBar.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.Wizard.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraPivotGrid.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraDiagram.v24.2.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.Diagram.v24.2.Core.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.AssemblyReference.cache
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBangLuong.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBangNV.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmBaoHiem.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmChamCong.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmChamTungNgay.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmCheDoNghi.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmChucVu.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmDangNhap.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmMenuQuanLy.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmNhanVien.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmPhongBan.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.frmThuongPhat.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Properties.Resources.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FormInDSBaoHiem.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FormInDSTP.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FrmInDSBangLuong.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.FrmInDSNhanViencs.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RDSNhanVien.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.ReportBangLuong.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RpBaoHiem.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.RpTP.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.Report.XtraReportDSNhanVien.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.ThongKe.FrmThongKeBangLuong.resources
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.GenerateResource.cache
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.exe.licenses
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.CoreCompileInputs.cache
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.csproj.CopyComplete
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.exe
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\12523081_NguyenVanThang.pdb
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.UI.dll
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\bin\Debug\DevExpress.XtraCharts.v24.2.UI.xml
+E:\New folder\12523081_NguyenVanThang\12523081_NguyenVanThang\obj\Debug\_12523081_NguyenVanThang.ThongKe.FrmThongKeBieuDo.resources
