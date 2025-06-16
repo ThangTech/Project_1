@@ -8,7 +8,7 @@ Phần mềm **Quản lý Nhân sự** được xây dựng nhằm hỗ trợ c�
 
 - **Ngôn ngữ**: C# (.NET Framework)
 - **Giao diện**: Windows Forms (WinForms) + DevExpress
-- **Kiến trúc**: 3 lớp (GUI - BLL - DAL)
+- **Kiến trúc**: 3 lớp (GUI - BLL - DTO)
 - **Cơ sở dữ liệu**: SQL Server
 - **ORM**: ADO.NET
 
